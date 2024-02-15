@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **golang, python**
 
-- 👨‍💻 All of my projects are available at [https://watcharachaisk.github.io/profile_me/](https://watcharachaisk.github.io/profile_me/)
+- 👨‍💻 Learn more about me [https://watcharachaisk.github.io/profile_me/](https://watcharachaisk.github.io/profile_me/)
 
 - 📫 How to reach me **watcharachai.sk@gmail.com**
 
